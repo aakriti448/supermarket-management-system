@@ -1,0 +1,4 @@
+Name          uic   price   quantity
+apple         app   10      100
+mango         man   15      100
+banana        ban   20      100

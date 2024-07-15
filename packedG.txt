@@ -1,0 +1,5 @@
+Name          uic   price   quantity available
+biscuit         bis   20      100
+noodles         noo   25      100
+chips           chh   30      100       kurkure   kur     200        2
+          lays   lay      50        3
